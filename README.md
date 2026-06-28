@@ -1,6 +1,6 @@
 <h1 allign="center">
-  # A bot to "evade" Discord account limitations
-</p> 
+  A bot to "evade" Discord account limitations
+</h1> 
 
 <p allign="center">
   > [!NOTE]
