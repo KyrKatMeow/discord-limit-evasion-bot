@@ -21,6 +21,7 @@ Download Python: https://www.python.org
 Run the following commands in Terminal:
 > [!NOTE]
 > If you're on Windows, use WSL, CMD won't work
+
 > ```bash
 > pip3 install discord
 > git clone https://github.com/KyrKatMeow/discord-limit-evasion-bot/
