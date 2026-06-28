@@ -1,4 +1,4 @@
-<p allign="center">
+<h1 allign="center">
   # A bot to "evade" Discord account limitations
 </p> 
 
@@ -7,7 +7,7 @@
   > I know the code is propaply garbage, i am pretty new to Python :/
 </p>
 
-<p allign="center">
+<h2 allign="center">
   ## "Evade" Discord Warning System Limits
   <img src="https://support.discord.com/hc/article_attachments/34638103185431" width=250>
 </p>
