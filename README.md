@@ -29,6 +29,7 @@ Then edit the main.py file, go to the bottom, and find the line:
 > bot.run("Your Token :3)
 > ```
 Replace "Your Token :3" with your token
+
 Then run:
 > ```bash
 > python3 main.py
@@ -37,6 +38,6 @@ The bot should now start
 Add the bot using the URL from earlier
 A info channel will be created, read it
 > [!TIP]
-> If there are alredy members that you want to synd, run /sync-members
+> If there are alredy members that you want to sync, run /sync-members
 > To send messages, use /send
 
