@@ -4,7 +4,7 @@
 > I know the code is propaply garbage, i am pretty new to Python :/
 
 ## "Evade" Discord Warning System Limits
-<img src="https://support.discord.com/hc/article_attachments/34638103185431" width=800>
+<img src="https://support.discord.com/hc/article_attachments/34638103185431" width=100>
 
 ### How to use?
 Go to the Discord Developer Portal[https://discord.com/developers/home]
