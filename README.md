@@ -8,7 +8,7 @@
 </p>
 
 <h2 allign="center">
-  ## "Evade" Discord Warning System Limits
+  "Evade" Discord Warning System Limits
   <img src="https://support.discord.com/hc/article_attachments/34638103185431" width=250>
 </p>
 
