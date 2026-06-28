@@ -11,8 +11,10 @@ Go to the Discord Developer Portal[https://discord.com/developers/home]
 Create a bot
 Go to "Bot" tab and enable the Server Members Intent
 Copy it's Token
+
 > [!WARNING]
 > DONT SHARE THE TOKEN, if someone has it, they can control your bot!
+
 Then go to OAuth2, and generate a install URL, Scopes: bot Permissions: Administrator
 Make a new server, if the violation dosen't say "You have limited access to servers until xx/xx/xx"
 Download Python: https://www.python.org
