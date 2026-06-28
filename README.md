@@ -1,14 +1,20 @@
-# A bot to "evade" Discord account limitations
+<p allign="center">
+  # A bot to "evade" Discord account limitations
+</p> 
 
-> [!NOTE]
-> I know the code is propaply garbage, i am pretty new to Python :/
+<p allign="center">
+  > [!NOTE]
+  > I know the code is propaply garbage, i am pretty new to Python :/
+</p>
 
-## "Evade" Discord Warning System Limits
-<img src="https://support.discord.com/hc/article_attachments/34638103185431" width=250>
+<p allign="center">
+  ## "Evade" Discord Warning System Limits
+  <img src="https://support.discord.com/hc/article_attachments/34638103185431" width=250>
+</p>
 
 ### How to use?
 
-Go to the Discord Developer Portal[https://discord.com/developers/home]
+Go to the !Discord Developer Portal[https://discord.com/developers/home]
 
 Create a bot
 
